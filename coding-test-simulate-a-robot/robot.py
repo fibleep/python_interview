@@ -1,4 +1,4 @@
-CARDINAL_DIRECTIONS: list = ("NORTH", "EAST", "SOUTH", "WEST")
+CARDINAL_DIRECTIONS: tuple = ("NORTH", "EAST", "SOUTH", "WEST")
 
 
 class Robot:
